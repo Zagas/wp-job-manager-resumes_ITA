@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-22 12:20+0200\n"
+"PO-Revision-Date: 2016-04-22 16:56+0200\n"
 "Language-Team: \n"
 "X-Generator: Poedit 1.8.7\n"
 "Last-Translator: \n"
@@ -115,7 +115,7 @@ msgstr "Scandenza"
 #: includes/forms/class-wp-resume-manager-form-submit-resume.php:192
 #: templates/content-single-resume.php:20
 msgid "Skills"
-msgstr ""
+msgstr "Abilità"
 
 #: includes/admin/class-wp-resume-manager-cpt.php:255
 #: includes/admin/class-wp-resume-manager-settings.php:56
@@ -752,11 +752,11 @@ msgstr ""
 
 #: includes/admin/class-wp-resume-manager-writepanels.php:29
 msgid "Professional Title"
-msgstr ""
+msgstr "Titolo Professionale"
 
 #: includes/admin/class-wp-resume-manager-writepanels.php:34
 msgid "Contact Email"
-msgstr ""
+msgstr "Email Di Contatto"
 
 #: includes/admin/class-wp-resume-manager-writepanels.php:35
 #: includes/forms/class-wp-resume-manager-form-submit-resume.php:139
